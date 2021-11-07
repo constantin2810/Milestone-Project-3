@@ -1,5 +1,6 @@
 /* Navbar */
 
+
 .container-fluid {
     background-color: aquamarine;
 }
@@ -9,8 +10,25 @@
     width: 100px;
 }
 
+/* logo */
+
 .logo {
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
 }
+
+/* background-image styling*/
+
+body {
+    background-image: url(../images/cooking2.jpg);
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    background-attachment: fixed;
+    margin-top: 20px;
+}
+
+
 
