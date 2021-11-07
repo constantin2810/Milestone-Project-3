@@ -46,5 +46,13 @@ body {
     color: white;
 }
 
+.footer {
+    text-align: center;
+    padding: 4px;
+    background-color: aquamarine;
+    color: black;
+    position: relative;
+}
+
 
 
