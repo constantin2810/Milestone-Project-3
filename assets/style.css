@@ -1,0 +1,16 @@
+/* Navbar */
+
+.container-fluid {
+    background-color: aquamarine;
+}
+
+.navbar-brand img {
+    height: 100px;
+    width: 100px;
+}
+
+.logo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
