@@ -5,6 +5,10 @@
     background-color: aquamarine;
 }
 
+.navbar-brand {
+    font-size: 2rem;
+}
+
 .navbar-brand img {
     height: 100px;
     width: 100px;
@@ -27,7 +31,7 @@ body {
     background-position: center center;
     position: relative;
     background-attachment: fixed;
-    margin-top: 20px;
+    margin-top: 0;
 }
 
 .jumbotron {
