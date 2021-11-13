@@ -36,9 +36,9 @@ body {
 
 .jumbotron {
     text-align: center;
-    background-color: transparent;
+    background-color: unset;
     position: center;
-    padding-top: 250px;
+    padding-top: 180px;
     padding-bottom: 200px;
     padding-left: 200px;
     padding-right: 200px;
