@@ -42,6 +42,7 @@ body {
     padding-bottom: 200px;
     padding-left: 200px;
     padding-right: 200px;
+    box-shadow: inset;
 
 }
 
@@ -50,12 +51,16 @@ body {
     color: white;
 }
 
+#icon {
+    color: white;
+}
+
 .footer {
     text-align: center;
     padding: 4px;
     background-color: aquamarine;
     color: black;
-    position: relative;
+    position: sticky;
 }
 
 
